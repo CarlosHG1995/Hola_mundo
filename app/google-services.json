@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "813684932623",
+    "firebase_url": "https://eventos-4e824.firebaseio.com",
+    "project_id": "eventos-4e824",
+    "storage_bucket": "eventos-4e824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813684932623:android:69f663f41960b50127637a",
+        "android_client_info": {
+          "package_name": "com.example.eventos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813684932623-8thosoqut61u3d9epffm4sb80uqppnqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventos",
+            "certificate_hash": "f34b7292aec9e87624e02c2aa013308e50cba4c0"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxexRo1pNO3vuUFusIe27qNsl1wu3R9x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813684932623:android:b19fba07a9009ce327637a",
+        "android_client_info": {
+          "package_name": "com.example.hola_mundo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxexRo1pNO3vuUFusIe27qNsl1wu3R9x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
